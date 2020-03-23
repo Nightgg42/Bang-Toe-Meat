@@ -12,3 +12,6 @@ https://www.figma.com/file/Z3GaYgXIvbJDr4mVzU63Uh/Bang-Toe-Meat
 
 ประเมิน
 https://docs.google.com/forms/d/e/1FAIpQLSekwkeJllbrkB9-4iNSFIF4KW1_9owMdvmx5CKSwQbe-X6hZw/viewform
+
+คลิปทดลองแอป
+https://youtu.be/BdNzI01Z1xU
